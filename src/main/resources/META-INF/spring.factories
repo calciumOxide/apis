@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.oxide.apis.autoconfiguration.ApisAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+com.oxide.apis.autoconfiguration.ApisFactoryBean
